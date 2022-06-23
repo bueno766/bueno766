@@ -1,4 +1,4 @@
-## Hello Word
+## Hello World!
 <div align="left">
   <a href="https://github.com/bueno766">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bueno766&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
