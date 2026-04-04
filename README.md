@@ -12,6 +12,10 @@ Analista de Sistemas com experiência em suporte N2, análise funcional e integr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
@@ -21,14 +25,16 @@ Analista de Sistemas com experiência em suporte N2, análise funcional e integr
 
 ## 🧪 Conhecimentos aplicados
 
-* APIs REST (criação, consumo e testes)
-* Postman / Insomnia
-* Integração entre sistemas
-* Análise de requisições HTTP
-* SQL (consultas e manipulação de dados)
-* Validação de regras de negócio
-* Testes funcionais e identificação de bugs
-* Desenvolvimento Web
+- APIs REST (criação, consumo e testes)
+- Postman / Insomnia
+- Integração entre sistemas
+- Análise de requisições HTTP
+- SQL (consultas e manipulação de dados)
+- Validação de regras de negócio
+- Testes funcionais e identificação de bugs
+- Desenvolvimento e manutenção de sites em WordPress
+- Ajustes técnicos em HTML, CSS e PHP
+- Configuração de plugins, domínios e hospedagem
 
 ---
 
