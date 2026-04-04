@@ -15,7 +15,6 @@ Analista de Sistemas com experiência em suporte N2, análise funcional e integr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
 
 ---
@@ -29,22 +28,7 @@ Analista de Sistemas com experiência em suporte N2, análise funcional e integr
 * SQL (consultas e manipulação de dados)
 * Validação de regras de negócio
 * Testes funcionais e identificação de bugs
-
----
-
-## 📊 Estatísticas
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bueno766&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bueno766&layout=compact"/>
-</p>
-
----
-
-## 📌 Projeto em destaque
-
-🔗 API REST - Gerenciador de Pessoas
-https://github.com/bueno766/api-node
+* Desenvolvimento Web
 
 ---
 
